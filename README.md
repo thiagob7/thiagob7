@@ -11,7 +11,7 @@
 
 <h2> Olá 👋 bem-vindos ao meu perfil </h2>
 
-- [🎯] <b>Objetivos:</b> me tornar full stack JavaScript
+- [🎯] <b>Objetivos:</b> Focado Frontend Web
 - [❤️] <b>Paixão:</b> Livros, jogos, musicas e progamar
 
 </p>
