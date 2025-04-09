@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/thiago-barbosa-6460bb283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thbp777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://mardesondev.com"><img src="https://img.shields.io/badge/Portfólio-12C2E9?style=for-the-badge&logo=&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/Portfólio-12C2E9?style=for-the-badge&logo=&logoColor=white" /></a>
 
 ---
 
