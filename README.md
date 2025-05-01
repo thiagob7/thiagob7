@@ -1,5 +1,7 @@
 <!-- Banner animado (opcional: troque pela sua própria arte ou um GIF leve) -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=12C2E9&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+o+Thiago+Barbosa+%F0%9F%92%BB;Front-End+Developer;Apaixonado+por+UI%2FUX+e+performance" alt="typing-banner"/>
+<img width="100%"
+     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=12C2E9&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+o+Thiago+Barbosa+%F0%9F%92%BB;Front-End+Developer"
+     alt="typing-banner"/>
 
 <h1 align="center">Thiago Barbosa&nbsp;👨‍💻</h1>
 
