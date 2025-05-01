@@ -70,8 +70,8 @@
 
 | Projeto | Descrição | Techs | Deploy |
 |---------|-----------|-------|--------|
-| **Awesome App** | Dashboard responsivo para controle de gastos pessoais | React · TypeScript · Tailwind · Chart.js | [Versão live](https://awesome-app.vercel.app) |
-| **Game-Finder** | Catálogo de jogos com integração à API RAWG | Next.js · Axios · Framer Motion | [Versão live](https://game-finder.vercel.app) |
+<!-- | **Awesome App** | Dashboard responsivo para controle de gastos pessoais | React · TypeScript · Tailwind · Chart.js | [Versão live](https://awesome-app.vercel.app) |
+| **Game-Finder** | Catálogo de jogos com integração à API RAWG | Next.js · Axios · Framer Motion | [Versão live](https://game-finder.vercel.app) | -->
 
 > *Abra as _Issues_ ou mande mensagem caso queira sugerir algo ou colaborar!*
 
