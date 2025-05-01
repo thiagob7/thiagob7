@@ -54,7 +54,7 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagob7&layout=compact&langs_count=8&theme=tokyonight" alt="top-langs"/>
 
 <!-- Contribution streak (opcional) -->
-<img height="170px" src="https://github-readme-streak-stats.vercel.app?user=thiagob7&theme=tokyonight" alt="streak"/>
+<img height="170px" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=thiagob7&theme=tokyonight" alt="streak"/>
 
 
 </div>
