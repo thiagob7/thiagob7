@@ -27,7 +27,7 @@
 ## 👋 Bem-vindos!
 
 - 🎯 **Objetivo:** Especializar-me em Front-End Web (React/Next + TypeScript)
-- 💡 **Interesses:** UI/UX, acessibilidade, performance & animações
+- 💡 **Interesses:** acessibilidade, performance & animações
 - 📚 **Hobbies:** livros, jogos, música e programar (muito café ☕)
 
 ---
