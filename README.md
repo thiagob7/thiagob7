@@ -28,7 +28,7 @@
 
 - 🎯 **Objetivo:** Especializar-me em Front-End Web (React/Next + TypeScript)
 - 💡 **Interesses:** acessibilidade, performance & animações
-- 📚 **Hobbies:** livros, jogos, música e programar (muito café ☕)
+- 📚 **Hobbies:** programar (muito café ☕)
 
 ---
 
