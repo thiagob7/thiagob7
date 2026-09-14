@@ -70,20 +70,20 @@ Plataforma de chat em tempo real, inspirada no Discord.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=thiagob7&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagob7&theme=tokyonight"
     alt="GitHub Stats"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagob7&layout=compact&langs_count=6&hide_border=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagob7&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight-chi.vercel.app?user=thiagob7&theme=transparent&hide_border=true"
+    src="https://github-readme-streak-stats-eight-chi.vercel.app?user=thiagob7&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
