@@ -38,15 +38,18 @@ Sou desenvolvedor Full-Stack com foco em Front-End, apaixonado por criar interfa
 
 #### 💬 Gravaê Chat
 
-Plataforma de chat em tempo real, inspirada no Discord.
+Plataforma de chat, voz e vídeo em tempo real, inspirada no Discord — com app web e desktop.
 
 - 💬 **Mensagens em tempo real** com Socket.IO + Redis
-- 🎙️ **Voz e compartilhamento de tela** com LiveKit
-- 🤖 **API de bots:** o bot é um usuário de verdade e herda as permissões
+- 🎙️ **Voz, vídeo e compartilhamento de tela** com LiveKit (WebRTC) no próprio servidor, com supressão de ruído DeepFilterNet rodando no aparelho
+- 🖥️ **App desktop** em Electron, com cache offline em SQLite e atualização automática
+- 🤖 **API de bots**: o bot é um usuário de verdade e herda as permissões
 - 🎨 **Temas personalizáveis** feitos apenas com variáveis CSS
-- 📦 **Monorepo** com web e pacotes compartilhados
+- 🛡️ **Painel de administração** com permissões por área e aprovação de deploy
+- 🌍 **34 idiomas**
+- 📦 **Monorepo** com web, API, desktop, landing e pacote compartilhado
 
-`React 19` `TypeScript` `Next.js` `TanStack Query` `Fastify` `Prisma` `Socket.IO` `Redis` `LiveKit`
+`React 19` `TypeScript` `Vite` `React Router` `TanStack Query` `Zustand` `Tailwind CSS` `Fastify` `Prisma` `MongoDB` `Socket.IO` `Redis` `LiveKit` `Electron` `Vitest` `Next.js`
 
 <!--
   Quando tiver um GIF/print:
