@@ -25,13 +25,11 @@
 
 ### 👋 Sobre mim
 
-Construo interfaces rápidas e modernas no front. Hoje desenvolvo o
-**[Gravaê Chat](https://github.com/thiagob7/Grava-Chat)**, trabalhando desde a API
-até WebSocket e deploy.
+Construo interfaces rápidas e modernas no front. Atualmente, estou **desenvolvendo e evoluindo o Gravaê Chat**, uma plataforma de comunicação em tempo real, atuando desde a arquitetura da aplicação até recursos de WebSocket e infraestrutura.
 
-- 🔭 Trabalhando no **[Gravaê Chat](https://github.com/thiagob7/Grava-Chat)**
-- 🎯 Interesses: acessibilidade, performance, tempo real e design systems
-- 🇧🇷 Brasil
+- 🔭 **Desenvolvendo:** [Gravaê Chat](https://github.com/thiagob7/Grava-Chat)
+- 🎯 **Interesses:** acessibilidade, performance, tempo real e design systems
+- 🇧🇷 **Brasil**
 
 ---
 
