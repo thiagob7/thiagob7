@@ -25,10 +25,11 @@
 
 ### 👋 Sobre mim
 
-Construo interfaces rápidas e modernas no front. Atualmente, estou **desenvolvendo e evoluindo o Gravaê Chat**, uma plataforma de comunicação em tempo real, atuando desde a arquitetura da aplicação até recursos de WebSocket e infraestrutura.
+Sou desenvolvedor Full-Stack com foco em Front-End, apaixonado por criar interfaces modernas, rápidas e intuitivas. Gosto de transformar ideias em experiências digitais bem estruturadas, com atenção aos detalhes, performance e experiência do usuário.
 
-- 🔭 **Desenvolvendo:** [Gravaê Chat](https://github.com/thiagob7/Grava-Chat)
+- 💻 **Foco:** Front-End e aplicações Web
 - 🎯 **Interesses:** acessibilidade, performance, tempo real e design systems
+- 🚀 **Objetivo:** criar produtos modernos, funcionais e escaláveis
 - 🇧🇷 **Brasil**
 
 ---
