@@ -69,14 +69,14 @@ Plataforma de chat em tempo real, inspirada no Discord.
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=thiagob7&show_icons=true&count_private=true&hide_border=true&theme=transparent"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=thiagob7&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagob7&layout=compact&langs_count=6&hide_border=true&theme=transparent"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagob7&layout=compact&langs_count=6&hide_border=true&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
