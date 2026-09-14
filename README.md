@@ -73,12 +73,6 @@ Plataforma de chat em tempo real, inspirada no Discord.
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagob7&theme=tokyonight"
     alt="GitHub Stats"
   />
-
-  <img
-    height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagob7&theme=tokyonight"
-    alt="Top Languages"
-  />
 </p>
 
 <p align="center">
